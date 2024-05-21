@@ -1,1 +1,1 @@
-console.info('project 2')
+console.log('project 2')
